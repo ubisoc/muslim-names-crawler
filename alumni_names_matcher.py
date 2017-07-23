@@ -28,7 +28,7 @@ def loadFromExcel(excelFile):
 
 def nameMatch(alumniNames, muslimNames):
     matches = []
-    otherNames = ['Hannah', 'Emily', 'Emma', 'Elizabeth', 'Daniel', 'Amelia', 'Anna', 'Grace', 'Isabella', 'Gabriella', 'Eleanor']
+    otherNames = ['Hannah', 'Emily', 'Emma', 'Elizabeth', 'Daniel', 'Amelia', 'Anna', 'Grace', 'Isabella', 'Gabriella', 'Eleanor', 'Susan', 'Melissa', 'Alan', 'Ambra', 'Antony']
     for row in alumniNames:
         firstName = row[1].value.split(' ')[0]
         if (firstName not in otherNames and binarySearch(muslimNames, firstName)):
