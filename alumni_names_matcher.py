@@ -28,8 +28,10 @@ def loadFromExcel(excelFile):
 
 def nameMatch(alumniNames, muslimNames):
     matches = []
+    otherNames = ['Hannah', 'Emily', 'Emma', 'Elizabeth', 'Daniel', 'Amelia', 'Anna', 'Grace', 'Isabella', 'Gabriella']
     for row in alumniNames:
-        if (binarySearch(muslimNames, row[1].value.split(' ')[0])):
+        firstName = row[1].value.split(' ')[0]
+        if (firstName not in otherNames and binarySearch(muslimNames, firstName)):
             matches.append([unicode(c.value).encode('utf-8') for c in row])
     return matches
 
