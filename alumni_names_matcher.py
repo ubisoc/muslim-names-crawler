@@ -1,4 +1,5 @@
 import xlrd
+import csv
 
 def binarySearch(alist, item):
     first = 0
@@ -29,15 +30,7 @@ def nameMatch(alumniNames, muslimNames):
     matches = []
     for row in alumniNames:
         if (binarySearch(muslimNames, row[1].value.split(' ')[0])):
-            matches.append(row)
-        """for colidx, cell in enumerate(row):
-            if colidx == 1:
-                for name in muslimNames:
-                    firstName = cell.value.split(" ")[0]
-                    if(firstName == name):
-                        #print row
-                        matches.append(row)"""
-
+            matches.append([unicode(c.value).encode('utf-8') for c in row])
     return matches
 
 with open('names.txt') as f:
@@ -47,5 +40,7 @@ muslimNames = sorted([x.strip('\n') for x in content])
 
 alumniNames = loadFromExcel('ubisoc 2010_2016_Final.xlsx')
 matches = nameMatch(alumniNames, muslimNames)
-print matches
-print len(matches)
+
+with open('output.csv', 'wb') as f:
+    writer = csv.writer(f)
+    writer.writerows(matches)
