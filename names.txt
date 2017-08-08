@@ -659,7 +659,6 @@ Alamgir
 Alamguir
 Alamulhuda
 Alamzeb
-Alan
 Alaqat
 Alauddin
 Alaudeen
@@ -804,7 +803,6 @@ Anjud
 Anjudi
 Anjum
 Anmar
-Anna
 Anouar
 Anoush
 Anoushiravan
@@ -818,7 +816,6 @@ Ansari
 Anshar
 Antar
 Antarah
-Antony
 Anum
 Anumullah
 Anush
@@ -1649,7 +1646,6 @@ Bustan
 Busyr
 Butrus
 Buzur
-Carmen
 Cemal
 Chabuk
 Chafik
@@ -1657,7 +1653,6 @@ Chahid
 Chaker
 Chaman
 Chams
-Chan
 Chanan
 Chanchal
 Chand
@@ -1669,7 +1664,6 @@ Chawki
 Cheekoo
 Cheherazad
 Cheragh
-Chessy
 Chinar
 Chishti
 Chokri
@@ -1716,14 +1710,12 @@ Dalil
 Dalir
 Dalu
 Dameer
-Damian
 Damurah
 Dana
 Daneer
 Danesh
 Daneshvar
 Dani
-Daniel
 Danish
 Daniyal
 Danyal
@@ -1776,7 +1768,6 @@ Dayyaan
 Dayyan
 Dayyar
 Dayyin
-Dean
 Deeb
 Deen
 Deenar
@@ -3052,7 +3043,6 @@ Irtiqa
 Irtiza
 Irtiza husain
 Isa
-Isaac
 Isaam
 Isaar
 Isad
@@ -3264,7 +3254,6 @@ Javanmard
 Javanshir
 Javed
 Javeed
-Javier
 Jawaad
 Jawabir
 Jawad
@@ -7522,9 +7511,6 @@ Wranga
 Wuhaib
 Wuhayb
 Wuraid
-Xander
-Xavier
-Xobeen
 Yaafi
 Yaafis
 Yaaqoot
@@ -8240,7 +8226,6 @@ Alhena
 Alia
 Aliaa
 Aliah
-Alicia
 Alifa
 Alihat
 Alika
@@ -8309,14 +8294,12 @@ Ambareen
 Ambarin
 Amber
 Ambereen
-Ambra
 Ambreen
 Ameena
 Ameenah
 Ameera
 Ameerah
 Amel
-Amelia
 Amena
 Amial
 Amila
@@ -8425,8 +8408,6 @@ Anjum
 Anjuman
 Anmar
 Anmol
-Ann
-Anna
 Annali
 Annam
 Annissa
@@ -9144,9 +9125,7 @@ Chashida
 Chehra
 Cheragh
 Cheshideh
-Chessy
 Chiman
-Cyra
 Daaemiyyah
 Daajiyah
 Daania
@@ -9321,7 +9300,6 @@ Eifa
 Eifad
 Eihaa
 Eiham
-Eileen
 Eiliyah
 Eilnaz
 Eima
@@ -9332,24 +9310,17 @@ Eira
 Eithar
 Eiwa
 Elaf
-Eleanor
 Elham
 Eliana
 Elijah
 Elika
 Elisha
-Eliza
-Elizabeth
 Elma
 Elmira
 Elnaz
-Elsa
 Elsana
 Emaan
 Eman
-Emily
-Emma
-Emna
 Enisa
 Ereshva
 Erina
@@ -9669,7 +9640,6 @@ Fizza
 Fizzah
 Fizzi
 Fizziyah
-Flora
 Folla
 Foram
 Forhana
@@ -9870,7 +9840,6 @@ Golzad
 Golzar
 Golzari
 Gouzal
-Grace
 Grana
 Guadalupe
 Guhika
@@ -10062,7 +10031,6 @@ Haniyah
 Haniyya
 Haniyyah
 Hanna
-Hannah
 Hannanah
 Hannufah
 Hanoon
@@ -10152,7 +10120,6 @@ Heena
 Heer
 Hela
 Helai
-Helena
 Helima
 Hena
 Hend
@@ -10910,7 +10877,6 @@ Kindah
 Kindiyyah
 Kinza
 Kiram
-Kiran
 Kishwar
 Kiswa
 Kiswar
@@ -11038,7 +11004,6 @@ Layyasah
 Layyin
 Layyina
 Lazimah
-Leanne
 Leem
 Leen
 Leena
@@ -11586,7 +11551,6 @@ Mehvesh
 Mehvish
 Mehwish
 Melek
-Melissa
 Meltem
 Memoona
 Menaal
@@ -12183,7 +12147,6 @@ Nasrin
 Nasrullah
 Nasya
 Natara
-Natasha
 Nathifa
 Natila
 Natiqa
@@ -13073,7 +13036,6 @@ Rihaana
 Riham
 Rihana
 Rihanah
-Rihanna
 Rija
 Rijja
 Rim
@@ -13627,7 +13589,6 @@ Sarwana
 Sarwari
 Sarwath
 Sarya
-Sasha
 Sataish
 Sateerah
 Satila
@@ -13675,7 +13636,6 @@ Seher
 Sehr
 Sehrish
 Selima
-Selina
 Selma
 Semaara
 Semah
@@ -14110,9 +14070,6 @@ Somila
 Somna
 Sonbol
 Sonbula
-Sonia
-Soniya
-Sonya
 Sooraya
 Sophia
 Soraiya
@@ -14251,7 +14208,6 @@ Suri
 Surina
 Surma
 Surraya
-Susan
 Sussan
 Sutait
 Suwaib
